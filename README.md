@@ -38,6 +38,12 @@ this branch
 
 ## Quickstart:
 
+```
+git clone https://github.com/nhtlongcs/thachthuc-2021.git workspace
+cd workspace
+git pull && git submodule update --init --recursive
+```
+
 
 ## Team members
 [Phuc Nguyen](https://github.com/ndhp2000) 
