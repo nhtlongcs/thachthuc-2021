@@ -40,12 +40,12 @@ this branch
 
 
 ## Team members
+[Phuc Nguyen](https://github.com/ktvn100) 
+
+[Phu Duc Doan](https://github.com/doanphuduc) 
+
+[Quang Vu Le](https://github.com/ktvn100) 
+
+[Hoang Quan Nguyen](https://github.com/wan2000) 
+
 [Long Nguyen](https://github.com/nhtlongcs) 
-
-[Phuc Nguyen](https://github.com/nhtlongcs) 
-
-[Phu Duc Doan](https://github.com/nhtlongcs) 
-
-[Quang Vu Le](https://github.com/nhtlongcs) 
-
-[Hoang Quan Nguyen](https://github.com/nhtlongcs) 
