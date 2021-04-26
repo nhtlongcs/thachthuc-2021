@@ -12,7 +12,7 @@
 - [x] Export input string to csv table (round2)
 - [ ] Add lego mindstorm prototype (round3)
 - [ ] Add docker file and enviroments for mindstorm NXT (round3)
-- [ ] Add robot running script (round3)
+- [x] Add robot running script (round3)
 - [x] Add competive programming templates (round4)
 
 
@@ -46,6 +46,6 @@ this branch
 
 [Quang Vu Le](https://github.com/ktvn100) 
 
-[Hoang Quan Nguyen](https://github.com/wan2000) 
+[Hoang-Quan Nguyen](https://github.com/wan2000) 
 
 [Long Nguyen](https://github.com/nhtlongcs) 
