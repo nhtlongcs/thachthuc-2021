@@ -13,7 +13,7 @@
 - [ ] Add lego mindstorm prototype (round3)
 - [ ] Add docker file and enviroments for mindstorm NXT (round3)
 - [ ] Add robot running script (round3)
-- [ ] Add competive programming templates (round4)
+- [x] Add competive programming templates (round4)
 
 
 ## File Structure:
