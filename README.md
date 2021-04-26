@@ -10,7 +10,7 @@
 
 - [x] Convert normal Vietnamese text to teencode, included dictionary (round2)
 - [x] Export input string to csv table (round2)
-- [ ] Add lego mindstorm prototype (round3)
+- [x] Add lego mindstorm prototype (round3)
 - [ ] Add docker file and enviroments for mindstorm NXT (round3)
 - [x] Add robot running script (round3)
 - [x] Add competive programming templates (round4)
