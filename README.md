@@ -1,0 +1,51 @@
+# Thach Thuc 2021 - ⭐ Zenith Team ⭐
+### Repo for Thach Thuc contest 2021 training scripts - Champion
+
+[Contest website](https://www.thachthuc.vn/) 
+
+[Archived final round](https://www.thachthuc.vn/tuong-thuat-truc-tiep-chung-ket-thach-thuc-2021-25-04-2021/) 
+
+![Sample images](images/im.jpg)
+## To-do list
+
+- [x] Convert normal Vietnamese text to teencode, included dictionary (round2)
+- [x] Export input string to csv table (round2)
+- [ ] Add lego mindstorm prototype (round3)
+- [ ] Add docker file and enviroments for mindstorm NXT (round3)
+- [ ] Add robot running script (round3)
+- [ ] Add competive programming templates (round4)
+
+
+## File Structure:
+```
+this branch
+│   readme
+│   
+└───round1
+│      
+└───round2
+│      encode.py
+│      dict.dat
+│      input.txt
+│      output.txt
+│      export_table.py
+
+└───round3
+│      
+└───round4
+│      
+```
+
+## Quickstart:
+
+
+## Team members
+[Long Nguyen](https://github.com/nhtlongcs) 
+
+[Phuc Nguyen](https://github.com/nhtlongcs) 
+
+[Phu Duc Doan](https://github.com/nhtlongcs) 
+
+[Quang Vu Le](https://github.com/nhtlongcs) 
+
+[Hoang Quan Nguyen](https://github.com/nhtlongcs) 
