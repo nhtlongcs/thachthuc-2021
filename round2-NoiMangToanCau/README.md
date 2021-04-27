@@ -149,10 +149,10 @@ Answer:
 ```bash
 python src/export_cipher_csv.py --inp ./example/msg.txt --out ./example/result.csv
 ```
-*inp.txt*
+*msg.txt*
 
 [demo file](example/msg.txt)
 
-*ans.txt*
+*result.csv*
 
 [demo file](example/result.csv)
