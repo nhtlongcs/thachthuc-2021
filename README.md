@@ -44,6 +44,11 @@ cd workspace
 git pull && git submodule update --init --recursive
 ```
 
+* [round 1 - Khoi dong](round1-KhoiDong/README.md)
+* [round 2 - Noi mang toan cau](round2-NoiMangToanCau/README.md)
+* [round 3 - Dau truong robot](round3-DauTruongRobot/README.md)
+* [round 4 - Lap trinh tiep suc](round4-LapTrinhTiepSuc/README.md)
+
 
 ## Team members
 [Phuc Nguyen](https://github.com/ndhp2000) 
