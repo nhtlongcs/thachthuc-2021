@@ -24,7 +24,7 @@
 |22|Thứ tự topo có thứ tự từ điển nhỏ nhất \(Bài toán chung hơn là lấy ra thứ tự topo, dùng code này vẫn được\)|[code](https://github.com/doanphuduc/LTTS/blob/master/min_lexicographical_topo_order.cpp)|[test](https://www.spoj.com/problems/TOPOSORT/)|
 |23|Đếm số lượng đường đi từ đỉnh i đến đỉnh N trên DAG (DP trên DAG)|[code](https://github.com/doanphuduc/LTTS/blob/master/dp_in_dag.cpp)||
 |24|Tìm chu trình euler.|[code](https://github.com/doanphuduc/LTTS/blob/master/euler_tour.cpp)|[test](https://oj.vnoi.info/problem/nkpos)|
-|25|Giống 24 nhưng dùng map <int \| int> làm ma trận kề khi N lớn. |[code](https://github.com/doanphuduc/LTTS/blob/master/euler_tour_map.cpp)|[test](https://oj.vnoi.info/problem/nkpos)|
+|25|Giống 24 nhưng dùng map <int, int> làm ma trận kề khi N lớn. |[code](https://github.com/doanphuduc/LTTS/blob/master/euler_tour_map.cpp)|[test](https://oj.vnoi.info/problem/nkpos)|
 |26|Kiểm tra chu trình có tồn tại trên đồ thị có hướng hay không. Nếu có in ra một chu trình bất kì.|[code](https://github.com/doanphuduc/LTTS/blob/master/detect_cycle_in_directed_graph.cpp)||
 |27|Giống 26, nhưng là đồ thị vô hướng.|[code](https://github.com/doanphuduc/LTTS/blob/master/detect_cycle_in_undirected_graph.cpp)||
 |28|Tìm HCN full số 1 dùng deque|[code](https://github.com/doanphuduc/LTTS/blob/master/max_rect_full_one_deque.cpp)|[test](https://oj.vnoi.info/problem/qbrect)|
