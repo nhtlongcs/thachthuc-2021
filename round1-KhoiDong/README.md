@@ -1,4 +1,4 @@
-# **Round1 - Nối mạng toàn cầu**
+# **Round1 - Khởi động**
 🚀 Scripts hiển thị từ trong database, đếm ngược 2 phút. Các chủ đề bao gồm **AI, OS, Database, Network, Software, Crypto, Misc**
 ## **Build**
 compile to executable file
