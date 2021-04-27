@@ -8,6 +8,7 @@
 ![Sample images](images/im.jpg)
 ## To-do list
 
+- [x] Update database (round1)
 - [x] Convert normal Vietnamese text to teencode, included dictionary (round2)
 - [x] Export input string to csv table (round2)
 - [x] Add lego mindstorm prototype (round3)
