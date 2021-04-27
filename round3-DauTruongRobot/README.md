@@ -1,4 +1,4 @@
-# **Round3 - Lập trình tiếp sức**
+# **Round3 - Đấu trường robot**
 🚀 Templates
 
 ## **Đề bài**
