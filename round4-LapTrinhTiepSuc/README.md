@@ -13,20 +13,20 @@
 |11|Hình vuông max toàn số 1 dùng chặt nhị phân|[code](https://github.com/doanphuduc/LTTS/blob/master/max_square_full_one.cpp)|[test](https://www.codechef.com/problems/SUBMAT)|
 |12|Hình vuông max toàn số 1 dùng dp|[code](https://github.com/doanphuduc/LTTS/blob/master/max_square_full_one_N%5E2.cpp)|[test](https://www.codechef.com/problems/SUBMAT)|
 |13|Hình chữ nhật max trọng số.|[code](https://github.com/doanphuduc/LTTS/blob/master/max_weighted_rect.cpp)||
-|14|Josephus \(Để ý cách code Left \| Right\).|[code](https://github.com/doanphuduc/LTTS/blob/master/next_index.cpp)|[test](https://www.hackerrank.com/contests/thach-thuc-2017/challenges/tt-2017-ban-ket-3)|
+|14|Josephus \(Để ý cách code Left, Right\).|[code](https://github.com/doanphuduc/LTTS/blob/master/next_index.cpp)|[test](https://www.hackerrank.com/contests/thach-thuc-2017/challenges/tt-2017-ban-ket-3)|
 |15|Duyệt hoán vị|[code](https://github.com/doanphuduc/LTTS/blob/master/next_permutation.cpp)|[test](https://www.hackerrank.com/contests/thach-thuc-2021/challenges/tt2021-vl2)|
 |16|Sàng|[code](https://github.com/doanphuduc/LTTS/blob/master/sieve.cpp)||
-|17|Sàng trên đoạn|[code](https://github.com/doanphuduc/LTTS/blob/master/sieve_in_segment.cpp)||
+|17|Sàng trên đoạn|[code](https://github.com/doanphuduc/LTTS/blob/master/sieve_in_segment.cpp)|[test](https://www.spoj.com/problems/PRIME1/)|
 |18|Tổng cộng dồn 2D|[code](https://github.com/doanphuduc/LTTS/blob/master/sum_prefix2D.cpp)||
-|19|Cho N xâu. Trả lời Q truy vấn \| mỗi truy vấn trả về số lượng xâu trong N xâu có tiền tố là t \(Giải bằng hash 2 based\)|[code](https://github.com/doanphuduc/LTTS/blob/master/count_prefix_strings.cpp)||
-|20|Cho N xâu. Trả lời Q truy vấn \| mỗi truy vấn trả về số lượng xâu trong N xâu có tiền tố là t \(Giải bằng Trie\)|[code](https://github.com/doanphuduc/LTTS/blob/master/count_prefix_strings_with_trie.cpp)||
+|19|Cho N xâu. Trả lời Q truy vấn, mỗi truy vấn trả về số lượng xâu trong N xâu có tiền tố là t \(Giải bằng hash\)|[code](https://github.com/doanphuduc/LTTS/blob/master/count_prefix_strings.cpp)||
+|20|Cho N xâu. Trả lời Q truy vấn, mỗi truy vấn trả về số lượng xâu trong N xâu có tiền tố là t \(Giải bằng Trie\)|[code](https://github.com/doanphuduc/LTTS/blob/master/count_prefix_strings_with_trie.cpp)||
 |21|Cây khung nhỏ nhất (dùng DSU).|[code](https://github.com/doanphuduc/LTTS/blob/master/minimum_spanning_tree_using_dsu.cpp)|[test](https://www.spoj.com/problems/MST/)|
-|22|Thứ tự topo có thứ tự từ điển nhỏ nhất \(Bài toán chung hơn là lấy ra thứ tự topo \| dùng code này vẫn được\)|[code](https://github.com/doanphuduc/LTTS/blob/master/min_lexicographical_topo_order.cpp)|[test](https://www.spoj.com/problems/TOPOSORT/)|
+|22|Thứ tự topo có thứ tự từ điển nhỏ nhất \(Bài toán chung hơn là lấy ra thứ tự topo, dùng code này vẫn được\)|[code](https://github.com/doanphuduc/LTTS/blob/master/min_lexicographical_topo_order.cpp)|[test](https://www.spoj.com/problems/TOPOSORT/)|
 |23|Đếm số lượng đường đi từ đỉnh i đến đỉnh N trên DAG (DP trên DAG)|[code](https://github.com/doanphuduc/LTTS/blob/master/dp_in_dag.cpp)||
 |24|Tìm chu trình euler.|[code](https://github.com/doanphuduc/LTTS/blob/master/euler_tour.cpp)|[test](https://oj.vnoi.info/problem/nkpos)|
 |25|Giống 24 nhưng dùng map <int \| int> làm ma trận kề khi N lớn. |[code](https://github.com/doanphuduc/LTTS/blob/master/euler_tour_map.cpp)|[test](https://oj.vnoi.info/problem/nkpos)|
-|26|Kiêm tra chu trình có tồn tại trên đồ thị có hướng hay không. Nếu có in ra một chu trình bất kì.|[code](https://github.com/doanphuduc/LTTS/blob/master/detect_cycle_in_directed_graph.cpp)||
-|27|Giống 24 \| nhưng là đồ thị vô hướng.|[code](https://github.com/doanphuduc/LTTS/blob/master/detect_cycle_in_undirected_graph.cpp)||
+|26|Kiểm tra chu trình có tồn tại trên đồ thị có hướng hay không. Nếu có in ra một chu trình bất kì.|[code](https://github.com/doanphuduc/LTTS/blob/master/detect_cycle_in_directed_graph.cpp)||
+|27|Giống 26, nhưng là đồ thị vô hướng.|[code](https://github.com/doanphuduc/LTTS/blob/master/detect_cycle_in_undirected_graph.cpp)||
 |28|Tìm HCN full số 1 dùng deque|[code](https://github.com/doanphuduc/LTTS/blob/master/max_rect_full_one_deque.cpp)|[test](https://oj.vnoi.info/problem/qbrect)|
 |29|Xâu palindrome dài nhất (dùng hash)|[code](https://github.com/doanphuduc/LTTS/blob/master/longest_palindrome.cpp)|[test](https://www.spoj.com/problems/LPS/)|
 |30|Code mẫu cho bài chung kết TT 2017|[code](https://github.com/doanphuduc/LTTS/blob/master/tt-2017-ck.cpp)|[test](https://www.hackerrank.com/contests/thach-thuc-2017/challenges/tt-2017-chung-ket)|
