@@ -5,7 +5,7 @@
 |3|Tính tổ hợp C\(k\| n\)\| A\(k\| n\).|[code](https://github.com/doanphuduc/LTTS/blob/master/combinatorics.cpp)||
 |4|Đếm số ước/tổng ước của một số|[code](https://github.com/doanphuduc/LTTS/blob/master/count_or_sum_divisors.cpp)||
 |5|Đếm số thành phần liên thông của một đồ thị|[code](https://github.com/doanphuduc/LTTS/blob/master/dfs_count_component.cpp)||
-|6|Đường kình của cây (khoảng cách xa nhất giữa hai nút trên cây).|[code](https://github.com/doanphuduc/LTTS/blob/master/diameter_of_tree.cpp)||
+|6|Đường kính của cây (khoảng cách xa nhất giữa hai nút trên cây).|[code](https://github.com/doanphuduc/LTTS/blob/master/diameter_of_tree.cpp)||[test](https://www.spoj.com/problems/PT07Z)
 |7|Dijkstra|[code](https://github.com/doanphuduc/LTTS/blob/master/dijkstra.cpp)||
 |8|Phân tích một số thành thừa số nguyên tố|[code](https://github.com/doanphuduc/LTTS/blob/master/factorize_prime.cpp)||
 |9|Duyệt tập hợp|[code](https://github.com/doanphuduc/LTTS/blob/master/for_subset.cpp)||
