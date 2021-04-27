@@ -2,6 +2,8 @@ import re
 
 import csv
 
+import argparse
+
 
 def flatten(row: int, col: int, num_cols=8):
     return row * num_cols + col
@@ -9,7 +11,14 @@ def flatten(row: int, col: int, num_cols=8):
 
 if __name__ == "__main__":
     tables = []
-    with open("example/msg.txt", "r") as f:
+
+    parser = argparse.ArgumentParser(description='Process some integers.')
+    parser.add_argument('--inp-cipher-path', default='./example/ans.txt',
+                        help='description')
+    parser.add_argument('--out-csv-path', default='./example/result.csv',
+                        help='description')
+    args = parser.parse_args()
+    with open(args.inp_cipher_path, "r") as f:
         while True:
             table = None
 
@@ -44,7 +53,7 @@ if __name__ == "__main__":
 
             else:
                 break
-    with open("output.csv", "w", newline="") as f:
+    with open(args.out_csv_path, "w", newline="") as f:
         writer = csv.writer(f)
         for table in tables:
             writer.writerows(table)

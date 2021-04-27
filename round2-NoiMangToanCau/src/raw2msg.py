@@ -7,11 +7,11 @@ l = 1
 r = 255
 
 parser = argparse.ArgumentParser(description='Process some integers.')
-parser.add_argument('--inp-path', default='./example/input.txt',
+parser.add_argument('--inp-path', default='./example/inp.txt',
                     help='description')
 parser.add_argument('--dict-path', default='./meta/dict.dat',
                     help='description')
-parser.add_argument('--out-path', default='./example/output.txt',
+parser.add_argument('--out-path', default='./example/ans.txt',
                     help='description')
 args = parser.parse_args()
 
@@ -39,6 +39,7 @@ def get_random_key(l: int, r: int) -> int:
     return str(random.randint(l, r))
 
 
+print(args)
 with open(args.inp_path, "r") as f, open(args.out_path, "w") as g:
     data = f.readlines()
     for line in tqdm(data):
