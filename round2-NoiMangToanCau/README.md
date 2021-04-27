@@ -1,6 +1,10 @@
 # **Round2 - Nối mạng toàn cầu**
 🚀 Phần hướng dẫn này sẽ giải thích cách tạo ra các bộ đề tương ứng và một số đoạn script hỗ trợ.
 
+## **Đề bài**
+
+[![Watch the video](https://img.youtube.com/vi/Z5k0B4TF8Mg/maxresdefault.jpg)](https://youtube.com/embed/P8LFF1Z0ECI?start=118&end=199)
+
 ## Chương trình đoán chuyển đổi bin -> hex
 
 ```bash
