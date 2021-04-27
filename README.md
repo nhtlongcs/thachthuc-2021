@@ -17,25 +17,6 @@
 - [x] Add competive programming templates (round4)
 
 
-## File Structure:
-```
-this branch
-│   readme
-│   
-└───round1
-│      
-└───round2
-│      encode.py
-│      dict.dat
-│      input.txt
-│      output.txt
-│      export_table.py
-
-└───round3
-│      
-└───round4
-│      
-```
 
 ## Quickstart:
 
