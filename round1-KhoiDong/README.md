@@ -7,7 +7,7 @@ cd <this/folder/binary>
 g++  -pthread ../src/script.cpp -o ./run 
 ```
 ## **Run**
-compile to executable file
+running exec file
 ```
 cd <this/folder/binary>
 ./run
